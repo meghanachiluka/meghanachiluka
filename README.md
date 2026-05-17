@@ -37,3 +37,4 @@ Deployed a 3-tier Docker environment automated through Ansible with persistent s
 
 - LinkedIn: www.linkedin.com/in/chiluka-meghana
 - GitHub: https://github.com/meghana-chiluka
+- email: meghanachiluka87@gmail.com
